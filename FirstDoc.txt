@@ -4,5 +4,6 @@ test for discard
 Updated 123
 Updated
 get latest
+dmar
 -----
 123
