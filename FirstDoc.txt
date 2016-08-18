@@ -4,3 +4,5 @@ test for discard
 Updated 123
 Updated
 get latest
+-----
+123
